@@ -12535,8 +12535,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\angular\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\angular\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -12547,9 +12546,6 @@
       "packagesPath": "C:\\Users\\angular\\.nuget\\packages\\",
       "outputPath": "C:\\demo\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\angular\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
