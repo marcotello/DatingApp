@@ -6083,7 +6083,7 @@
       ]
     },
     "Microsoft.Build.Framework/15.5.179": {
-      "sha512": "/9SI/TJj9PEBSexSNCKS5e1tAIQ3lzPG8nXEqaG4PMNVq69Y55CterjMWAzrLOW44sIU2h8H/k0/zWx+ZtLRLw==",
+      "sha512": "ZM0uha8tZ8dvb/hldAtredhKA51eCaLzoiyLWZzzCyLh7o0PiDWBWYLW47aTw9bl+fWqmBbpctwDaGgOhKAbzg==",
       "type": "package",
       "path": "microsoft.build.framework/15.5.179",
       "files": [
@@ -13128,8 +13128,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\angular\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\angular\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -13140,9 +13139,6 @@
       "packagesPath": "C:\\Users\\angular\\.nuget\\packages\\",
       "outputPath": "C:\\demo\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\angular\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
